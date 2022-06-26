@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Xổ số Đồng Nai APP</string>
+    <string name="main">Nhà</string>
+    <string name="about">đây đó</string>
+    <string name="money_way">Cách kiếm tiền</string>
+    <string name="strategy">Chiến lược</string>
+    <string name="tips">Lời khuyên</string>
+    <string name="history">Lịch sử</string>
+</resources>
